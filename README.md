@@ -2,10 +2,14 @@
 Interactive Excel banking dashboard that visualizes transaction data by domain, location, and month, using pivot tables, slicers, and charts to track total value, transaction count, and average ticket size for faster decision-making
 
 Feature
+
 One of the best parts of working on this project was handling a large‑scale dataset of over 1 million transaction records, which made the analysis more realistic and closer to production‑level banking data.
 
 Project overview
+
+
 Interactive Excel dashboard for an Indian bank that summarizes transaction data by domain, location, and time period.
+
 Built entirely in Excel using pivot tables, slicers, formulas, and charts to transform raw transaction data into decision-ready insights.
 
 Data and metrics
